@@ -1,0 +1,22 @@
+.topnav {
+  background-color: rgb(192, 192, 192);
+  text-align: center;
+}
+
+.topnav a {
+  padding: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #e8e8e8;
+  color: #3d3d3d;
+}
+
+.topnav a:hover {
+  color: white;
+  background-color: #42545c;
+}
+.topnav a.active {
+  background-color: black;
+}
