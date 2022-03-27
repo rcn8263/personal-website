@@ -9,3 +9,35 @@
 p {
   margin: 0;
 }
+
+div {
+  position: absolute;
+  top: 50%;
+  /* margin: auto; */
+  right: 25%;
+  width: 50%;
+  background-color: beige;
+  text-align: center;
+  text-shadow: 3px;
+}
+
+p.name {
+  font-size: 4em;
+}
+
+p.description {
+  font-size: 1em;
+}
+
+.social {
+  font-size: 2em;
+  padding: 0;
+}
+
+.social li {
+  list-style: outside none none;
+  width: 0;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  display: inline;
+}
