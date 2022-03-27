@@ -20,3 +20,33 @@
 .topnav a.active {
   background-color: black;
 }
+
+.footer {
+  background-color: gray;
+}
+
+.colorPalette {
+  margin: 0;
+}
+
+.colorPalette .eerieBlack {
+  background-color: #131515;
+  color: red;
+}
+
+.colorPalette .jet {
+  background-color: #2b2c28;
+  color: red;
+}
+
+.colorPalette .persianGreen {
+  background-color: #339989;
+}
+
+.colorPalette .middleBlueGreen {
+  background-color: #7de2d1;
+}
+
+.colorPalette .snow {
+  background-color: #fffafb;
+}
