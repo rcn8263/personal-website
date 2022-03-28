@@ -1,5 +1,5 @@
 .bg {
-  height: 60em;
+  height: 80em;
   background-size: cover;
   width: auto;
   background-image: url("images/bg.jpg");
@@ -12,8 +12,7 @@ p {
 
 div {
   position: absolute;
-  top: 50%;
-  /* margin: auto; */
+  top: 40%;
   right: 25%;
   width: 50%;
   background-color: beige;
@@ -30,7 +29,7 @@ p.description {
 }
 
 .social {
-  font-size: 2em;
+  font-size: 1.5em;
   padding: 0;
   margin: 0;
 }
@@ -41,4 +40,8 @@ p.description {
   padding-left: 0.5em;
   padding-right: 0.5em;
   display: inline;
+}
+
+i {
+  color: black;
 }
