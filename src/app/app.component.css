@@ -1,5 +1,5 @@
 .topnav {
-  background-color: rgb(192, 192, 192);
+  background-color: var(--color-palette-60);
   text-align: center;
 }
 
@@ -9,13 +9,13 @@
   padding-right: 2rem;
   text-decoration: none;
   display: inline-block;
-  background-color: #e8e8e8;
-  color: #3d3d3d;
+  background-color: var(--color-palette-60);
+  color: var(--color-palette-30);
 }
 
 .topnav a:hover {
-  color: white;
-  background-color: #42545c;
+  color: var(--color-palette-10);
+  background-color: var(--color-palette-30-alt);
 }
 .topnav a.active {
   background-color: black;
@@ -30,23 +30,23 @@
 }
 
 .colorPalette .eerieBlack {
-  background-color: #131515;
+  background-color: var(--color-palette-60);
   color: red;
 }
 
 .colorPalette .jet {
-  background-color: #2b2c28;
+  background-color: var(--color-palette-30-alt);
   color: red;
 }
 
 .colorPalette .persianGreen {
-  background-color: #339989;
+  background-color: var(--color-palette-10);
 }
 
 .colorPalette .middleBlueGreen {
-  background-color: #7de2d1;
+  background-color: var(--color-palette-10-alt);
 }
 
 .colorPalette .snow {
-  background-color: #fffafb;
+  background-color: var(--color-palette-30);
 }
