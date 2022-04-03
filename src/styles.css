@@ -1,16 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
 :root {
   --color-palette-60: #131515;
-  --color-palette-30: #fffafb;
+  --color-palette-30: #999999;
   --color-palette-30-alt: #2b2c28;
   --color-palette-10: #339989;
-  --color-palette-10-alt: #7de2d1;
+  --color-palette-10-alt: #fffafb;
 }
 
 body {
   margin: 0;
+  font-family: serif;
 }
 
 p {
   margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: sans-serif;
 }

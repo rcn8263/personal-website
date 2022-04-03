@@ -1,5 +1,5 @@
 .topnav {
-  background-color: var(--color-palette-60);
+  background-color: var(--color-palette-30-alt);
   text-align: center;
 }
 
@@ -9,7 +9,7 @@
   padding-right: 2rem;
   text-decoration: none;
   display: inline-block;
-  background-color: var(--color-palette-60);
+  background-color: var(--color-palette-30-alt);
   color: var(--color-palette-30);
 }
 
